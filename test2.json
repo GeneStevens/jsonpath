@@ -1,0 +1,2160 @@
+{
+    "meta": {
+        "code": 200
+    }, 
+    "notifications": [
+        {
+            "item": {
+                "unreadCount": 2
+            }, 
+            "type": "notificationTray"
+        }
+    ], 
+    "response": {
+        "venues": [
+            {
+                "categories": [
+                    {
+                        "icon": {
+                            "name": ".png", 
+                            "prefix": "https://foursquare.com/img/categories/arts_entertainment/movietheater_", 
+                            "sizes": [
+                                32, 
+                                44, 
+                                64, 
+                                88, 
+                                256
+                            ]
+                        }, 
+                        "id": "4bf58dd8d48988d17f941735", 
+                        "name": "Movie Theater", 
+                        "pluralName": "Movie Theaters", 
+                        "primary": true, 
+                        "shortName": "Movie Theater"
+                    }
+                ], 
+                "contact": {
+                    "formattedPhone": "(303) 935-3238", 
+                    "phone": "3039353238", 
+                    "twitter": "CinemarkXD"
+                }, 
+                "events": {
+                    "count": 18, 
+                    "summary": "18 movies"
+                }, 
+                "hereNow": {
+                    "count": 0
+                }, 
+                "id": "4b0da30ff964a520d84c23e3", 
+                "location": {
+                    "address": "440 S Teller St", 
+                    "city": "Lakewood", 
+                    "country": "USA", 
+                    "distance": 197, 
+                    "lat": 39.70801204209133, 
+                    "lng": -105.07710456848145, 
+                    "postalCode": "80226", 
+                    "state": "CO"
+                }, 
+                "name": "Cinemark Century 16 Theatre", 
+                "stats": {
+                    "checkinsCount": 2091, 
+                    "tipCount": 13, 
+                    "usersCount": 1011
+                }, 
+                "url": "http://www.cinemark.com/theatre-detail.aspx?node_id=1683", 
+                "verified": true
+            }, 
+            {
+                "categories": [
+                    {
+                        "icon": {
+                            "name": ".png", 
+                            "prefix": "https://foursquare.com/img/categories/shops/default_", 
+                            "sizes": [
+                                32, 
+                                44, 
+                                64, 
+                                88, 
+                                256
+                            ]
+                        }, 
+                        "id": "4bf58dd8d48988d1f6941735", 
+                        "name": "Department Store", 
+                        "pluralName": "Department Stores", 
+                        "primary": true, 
+                        "shortName": "Department Store"
+                    }
+                ], 
+                "contact": {
+                    "formattedPhone": "(303) 209-7749", 
+                    "phone": "3032097749", 
+                    "twitter": "Target"
+                }, 
+                "hereNow": {
+                    "count": 0
+                }, 
+                "id": "4d6e6afa792bb60cd68262be", 
+                "location": {
+                    "address": "456 S. Vance St", 
+                    "city": "Lakewood", 
+                    "country": "USA", 
+                    "crossStreet": "S. Wadsworth Blvd & W. Alameda Ave.", 
+                    "distance": 230, 
+                    "lat": 39.708231, 
+                    "lng": -105.07954937, 
+                    "postalCode": "80226", 
+                    "state": "CO"
+                }, 
+                "name": "Target", 
+                "stats": {
+                    "checkinsCount": 1685, 
+                    "tipCount": 8, 
+                    "usersCount": 663
+                }, 
+                "verified": false
+            }, 
+            {
+                "categories": [
+                    {
+                        "icon": {
+                            "name": ".png", 
+                            "prefix": "https://foursquare.com/img/categories/nightlife/bar_", 
+                            "sizes": [
+                                32, 
+                                44, 
+                                64, 
+                                88, 
+                                256
+                            ]
+                        }, 
+                        "id": "4bf58dd8d48988d116941735", 
+                        "name": "Bar", 
+                        "pluralName": "Bars", 
+                        "primary": true, 
+                        "shortName": "Bar"
+                    }
+                ], 
+                "contact": {
+                    "formattedPhone": "(303) 953-5510", 
+                    "phone": "3039535510", 
+                    "twitter": "bakerstreetpub"
+                }, 
+                "hereNow": {
+                    "count": 0
+                }, 
+                "id": "4b0ae463f964a5208e2923e3", 
+                "location": {
+                    "address": "7260 W Alaska Dr.", 
+                    "city": "Lakewood", 
+                    "country": "USA", 
+                    "crossStreet": "Btw Alameda & Wadsworth", 
+                    "distance": 241, 
+                    "lat": 39.70855679095704, 
+                    "lng": -105.07751226425171, 
+                    "postalCode": "80226", 
+                    "state": "CO"
+                }, 
+                "name": "Baker Street Pub And Grill", 
+                "stats": {
+                    "checkinsCount": 3213, 
+                    "tipCount": 22, 
+                    "usersCount": 1082
+                }, 
+                "verified": true
+            }, 
+            {
+                "categories": [
+                    {
+                        "icon": {
+                            "name": ".png", 
+                            "prefix": "https://foursquare.com/img/categories/building/default_", 
+                            "sizes": [
+                                32, 
+                                44, 
+                                64, 
+                                88, 
+                                256
+                            ]
+                        }, 
+                        "id": "4d954b06a243a5684965b473", 
+                        "name": "Apartment Building / Condo Complex", 
+                        "pluralName": "Apartment Buildings / Condo Complexes", 
+                        "primary": true, 
+                        "shortName": "Apartment Buildings"
+                    }
+                ], 
+                "contact": {
+                    "twitter": "7166atBelmar"
+                }, 
+                "hereNow": {
+                    "count": 0
+                }, 
+                "id": "4b513f23f964a520954827e3", 
+                "location": {
+                    "address": "7166 W Custer Ave", 
+                    "city": "Lakewood", 
+                    "distance": 178, 
+                    "lat": 39.70594, 
+                    "lng": -105.076208, 
+                    "postalCode": "80226", 
+                    "state": "CO"
+                }, 
+                "name": "7166 at Belmar", 
+                "stats": {
+                    "checkinsCount": 381, 
+                    "tipCount": 0, 
+                    "usersCount": 37
+                }, 
+                "url": "http://www.7166atbelmar.com/", 
+                "verified": true
+            }, 
+            {
+                "categories": [
+                    {
+                        "icon": {
+                            "name": ".png", 
+                            "prefix": "https://foursquare.com/img/categories/shops/default_", 
+                            "sizes": [
+                                32, 
+                                44, 
+                                64, 
+                                88, 
+                                256
+                            ]
+                        }, 
+                        "id": "4bf58dd8d48988d1fd941735", 
+                        "name": "Mall", 
+                        "pluralName": "Malls", 
+                        "primary": true, 
+                        "shortName": "Mall"
+                    }
+                ], 
+                "contact": {
+                    "formattedPhone": "(303) 742-1520", 
+                    "phone": "3037421520", 
+                    "twitter": "BelmarColorado"
+                }, 
+                "hereNow": {
+                    "count": 0
+                }, 
+                "id": "4cea7ae8e1eeb60c376faeae", 
+                "location": {
+                    "address": "408 South Teller Street", 
+                    "city": "Lakewood", 
+                    "country": "USA", 
+                    "crossStreet": "Wadsworth & Alameda", 
+                    "distance": 243, 
+                    "lat": 39.708574, 
+                    "lng": -105.07754401, 
+                    "postalCode": "80226", 
+                    "state": "CO"
+                }, 
+                "name": "Belmar", 
+                "stats": {
+                    "checkinsCount": 927, 
+                    "tipCount": 2, 
+                    "usersCount": 313
+                }, 
+                "verified": false
+            }, 
+            {
+                "categories": [
+                    {
+                        "icon": {
+                            "name": ".png", 
+                            "prefix": "https://foursquare.com/img/categories/shops/food_grocery_", 
+                            "sizes": [
+                                32, 
+                                44, 
+                                64, 
+                                88, 
+                                256
+                            ]
+                        }, 
+                        "id": "4bf58dd8d48988d118951735", 
+                        "name": "Grocery or Supermarkets", 
+                        "pluralName": "Grocery or Supermarkets", 
+                        "primary": true, 
+                        "shortName": "Grocery Store"
+                    }
+                ], 
+                "contact": {
+                    "formattedPhone": "(303) 935-5000", 
+                    "phone": "3039355000", 
+                    "twitter": "WholeFoods"
+                }, 
+                "hereNow": {
+                    "count": 0
+                }, 
+                "id": "4abfa34bf964a520639120e3", 
+                "location": {
+                    "address": "444 S.Wadsworth Blvd.", 
+                    "city": "Lakewood", 
+                    "country": "USA", 
+                    "crossStreet": "at W. Virginia Ave.", 
+                    "distance": 298, 
+                    "lat": 39.708348, 
+                    "lng": -105.080629, 
+                    "postalCode": "80226", 
+                    "state": "CO"
+                }, 
+                "name": "Whole Foods Market", 
+                "stats": {
+                    "checkinsCount": 3297, 
+                    "tipCount": 18, 
+                    "usersCount": 814
+                }, 
+                "url": "http://wholefoodsmarket.com/stores/belmar", 
+                "verified": true
+            }, 
+            {
+                "categories": [
+                    {
+                        "icon": {
+                            "name": ".png", 
+                            "prefix": "https://foursquare.com/img/categories/food/sushi_", 
+                            "sizes": [
+                                32, 
+                                44, 
+                                64, 
+                                88, 
+                                256
+                            ]
+                        }, 
+                        "id": "4bf58dd8d48988d1d2941735", 
+                        "name": "Sushi Restaurant", 
+                        "pluralName": "Sushi Restaurants", 
+                        "primary": true, 
+                        "shortName": "Sushi"
+                    }
+                ], 
+                "contact": {
+                    "formattedPhone": "(303) 935-8888", 
+                    "phone": "3039358888"
+                }, 
+                "hereNow": {
+                    "count": 0
+                }, 
+                "id": "4cbe5933020d46881e365c38", 
+                "location": {
+                    "address": "433 S. Teller St.", 
+                    "city": "Lakewood", 
+                    "country": "USA", 
+                    "crossStreet": "at Alaska Dr", 
+                    "distance": 248, 
+                    "lat": 39.70855414867401, 
+                    "lng": -105.0772225856781, 
+                    "postalCode": "80226", 
+                    "state": "Colorado"
+                }, 
+                "name": "Wasabi Sushi Bar", 
+                "specials": [], 
+                "stats": {
+                    "checkinsCount": 523, 
+                    "tipCount": 4, 
+                    "usersCount": 290
+                }, 
+                "verified": false
+            }, 
+            {
+                "categories": [
+                    {
+                        "icon": {
+                            "name": ".png", 
+                            "prefix": "https://foursquare.com/img/categories/arts_entertainment/zoo_", 
+                            "sizes": [
+                                32, 
+                                44, 
+                                64, 
+                                88, 
+                                256
+                            ]
+                        }, 
+                        "id": "4bf58dd8d48988d17b941735", 
+                        "name": "Zoo or Aquarium", 
+                        "pluralName": "Zoos or Aquariums", 
+                        "primary": true, 
+                        "shortName": "Zoo / Aquarium"
+                    }
+                ], 
+                "contact": {}, 
+                "hereNow": {
+                    "count": 0
+                }, 
+                "id": "4e97914429c2ebc88a6b0f5e", 
+                "location": {
+                    "address": "Custer Ave", 
+                    "city": "Lakewood", 
+                    "distance": 232, 
+                    "lat": 39.70609483, 
+                    "lng": -105.07550726, 
+                    "postalCode": "80226", 
+                    "state": "CO"
+                }, 
+                "name": "Wombat and Panda Palace", 
+                "stats": {
+                    "checkinsCount": 88, 
+                    "tipCount": 0, 
+                    "usersCount": 6
+                }, 
+                "verified": false
+            }, 
+            {
+                "categories": [], 
+                "contact": {}, 
+                "hereNow": {
+                    "count": 0
+                }, 
+                "id": "4d6d8d12e7ab224b2f537ff7", 
+                "location": {
+                    "distance": 203, 
+                    "lat": 39.708026, 
+                    "lng": -105.079383
+                }, 
+                "name": "SuperTarget Belmar", 
+                "stats": {
+                    "checkinsCount": 41, 
+                    "tipCount": 0, 
+                    "usersCount": 10
+                }, 
+                "verified": false
+            }, 
+            {
+                "categories": [
+                    {
+                        "icon": {
+                            "name": ".png", 
+                            "prefix": "https://foursquare.com/img/categories/building/default_", 
+                            "sizes": [
+                                32, 
+                                44, 
+                                64, 
+                                88, 
+                                256
+                            ]
+                        }, 
+                        "id": "4bf58dd8d48988d174941735", 
+                        "name": "Coworking Space", 
+                        "pluralName": "Coworking Spaces", 
+                        "primary": true, 
+                        "shortName": "Coworking Space"
+                    }
+                ], 
+                "contact": {
+                    "formattedPhone": "(303) 393-3000", 
+                    "phone": "3033933000"
+                }, 
+                "hereNow": {
+                    "count": 4
+                }, 
+                "id": "4b059753f964a52090df22e3", 
+                "location": {
+                    "address": "7245 W Alaska Dr", 
+                    "city": "Lakewood", 
+                    "distance": 345, 
+                    "lat": 39.709543, 
+                    "lng": -105.078063, 
+                    "postalCode": "80226", 
+                    "state": "CO"
+                }, 
+                "name": "The Integer Group", 
+                "stats": {
+                    "checkinsCount": 6839, 
+                    "tipCount": 23, 
+                    "usersCount": 209
+                }, 
+                "verified": false
+            }, 
+            {
+                "categories": [
+                    {
+                        "icon": {
+                            "name": ".png", 
+                            "prefix": "https://foursquare.com/img/categories/food/bakery_", 
+                            "sizes": [
+                                32, 
+                                44, 
+                                64, 
+                                88, 
+                                256
+                            ]
+                        }, 
+                        "id": "4bf58dd8d48988d16a941735", 
+                        "name": "Bakery", 
+                        "pluralName": "Bakeries", 
+                        "primary": true, 
+                        "shortName": "Bakery"
+                    }
+                ], 
+                "contact": {
+                    "formattedPhone": "(720) 214-4600", 
+                    "phone": "7202144600"
+                }, 
+                "hereNow": {
+                    "count": 0
+                }, 
+                "id": "4ecabda2722efb00f785f04d", 
+                "location": {
+                    "address": "650 South Wadsworth", 
+                    "city": "Lakewood", 
+                    "distance": 264, 
+                    "lat": 39.705332, 
+                    "lng": -105.08090871, 
+                    "postalCode": "80226", 
+                    "state": "CO"
+                }, 
+                "name": "Panera Bread", 
+                "stats": {
+                    "checkinsCount": 42, 
+                    "tipCount": 1, 
+                    "usersCount": 29
+                }, 
+                "verified": false
+            }, 
+            {
+                "categories": [
+                    {
+                        "icon": {
+                            "name": ".png", 
+                            "prefix": "https://foursquare.com/img/categories/nightlife/bar_", 
+                            "sizes": [
+                                32, 
+                                44, 
+                                64, 
+                                88, 
+                                256
+                            ]
+                        }, 
+                        "id": "4bf58dd8d48988d116941735", 
+                        "name": "Bar", 
+                        "pluralName": "Bars", 
+                        "primary": true, 
+                        "shortName": "Bar"
+                    }
+                ], 
+                "contact": {}, 
+                "hereNow": {
+                    "count": 0
+                }, 
+                "id": "4eb43569d3e3644ca5ae6eb5", 
+                "location": {
+                    "city": "Denver", 
+                    "distance": 307, 
+                    "lat": 39.70910246666667, 
+                    "lng": -105.079152, 
+                    "postalCode": "80226", 
+                    "state": "CO"
+                }, 
+                "name": "The Rock Wood Fired Pizza", 
+                "stats": {
+                    "checkinsCount": 115, 
+                    "tipCount": 3, 
+                    "usersCount": 85
+                }, 
+                "verified": false
+            }, 
+            {
+                "categories": [
+                    {
+                        "icon": {
+                            "name": ".png", 
+                            "prefix": "https://foursquare.com/img/categories/shops/default_", 
+                            "sizes": [
+                                32, 
+                                44, 
+                                64, 
+                                88, 
+                                256
+                            ]
+                        }, 
+                        "id": "4bf58dd8d48988d186941735", 
+                        "name": "Liquor Store", 
+                        "pluralName": "Liquor Stores", 
+                        "primary": true, 
+                        "shortName": "Liquor Store"
+                    }
+                ], 
+                "contact": {
+                    "formattedPhone": "(303) 936-0272", 
+                    "phone": "3039360272"
+                }, 
+                "hereNow": {
+                    "count": 0
+                }, 
+                "id": "4b3ce119f964a520d28825e3", 
+                "location": {
+                    "address": "435 S Vance St", 
+                    "city": "Lakewood", 
+                    "distance": 258, 
+                    "lat": 39.70804505729655, 
+                    "lng": -105.08036613464355, 
+                    "postalCode": "80226", 
+                    "state": "CO"
+                }, 
+                "name": "Mile High Wine & Spirits", 
+                "specials": [], 
+                "stats": {
+                    "checkinsCount": 385, 
+                    "tipCount": 5, 
+                    "usersCount": 148
+                }, 
+                "verified": false
+            }, 
+            {
+                "categories": [
+                    {
+                        "icon": {
+                            "name": ".png", 
+                            "prefix": "https://foursquare.com/img/categories/food/indian_", 
+                            "sizes": [
+                                32, 
+                                44, 
+                                64, 
+                                88, 
+                                256
+                            ]
+                        }, 
+                        "id": "4bf58dd8d48988d10f941735", 
+                        "name": "Indian Restaurant", 
+                        "pluralName": "Indian Restaurants", 
+                        "primary": true, 
+                        "shortName": "Indian"
+                    }
+                ], 
+                "contact": {
+                    "formattedPhone": "(303) 973-9777", 
+                    "phone": "3039739777", 
+                    "twitter": "LittleindiaCO"
+                }, 
+                "hereNow": {
+                    "count": 0
+                }, 
+                "id": "4bb394c035f0c9b64796bc83", 
+                "location": {
+                    "address": "425 S Teller St.", 
+                    "city": "Lakewood", 
+                    "distance": 263, 
+                    "lat": 39.708659, 
+                    "lng": -105.07709, 
+                    "postalCode": "80226", 
+                    "state": "CO"
+                }, 
+                "name": "Little India Restaurant", 
+                "specials": [
+                    {
+                        "icon": "frequency", 
+                        "id": "4c5e0ba017f3b71356a81ae6", 
+                        "message": "Buy Any Entree get the second of equal or lesser value FREE\r\n\r\nOne per Table", 
+                        "provider": "foursquare", 
+                        "redemption": "standard", 
+                        "title": "Loyalty Special", 
+                        "type": "frequency"
+                    }
+                ], 
+                "stats": {
+                    "checkinsCount": 477, 
+                    "tipCount": 9, 
+                    "usersCount": 278
+                }, 
+                "url": "http://www.littleindiadenver.com/", 
+                "verified": true
+            }, 
+            {
+                "categories": [
+                    {
+                        "icon": {
+                            "name": ".png", 
+                            "prefix": "https://foursquare.com/img/categories/food/coffeeshop_", 
+                            "sizes": [
+                                32, 
+                                44, 
+                                64, 
+                                88, 
+                                256
+                            ]
+                        }, 
+                        "id": "4bf58dd8d48988d1e0931735", 
+                        "name": "Coffee Shop", 
+                        "pluralName": "Coffee Shops", 
+                        "primary": true, 
+                        "shortName": "Coffee Shop"
+                    }
+                ], 
+                "contact": {}, 
+                "hereNow": {
+                    "count": 0
+                }, 
+                "id": "4d78eaf071a68cfa106d0d86", 
+                "location": {
+                    "address": "S. Vance St.", 
+                    "city": "Lakewood", 
+                    "country": "USA", 
+                    "crossStreet": "W. Alaska", 
+                    "distance": 222, 
+                    "lat": 39.708222, 
+                    "lng": -105.079375, 
+                    "state": "CO"
+                }, 
+                "name": "Starbucks In Target", 
+                "stats": {
+                    "checkinsCount": 130, 
+                    "tipCount": 0, 
+                    "usersCount": 45
+                }, 
+                "verified": false
+            }, 
+            {
+                "categories": [
+                    {
+                        "icon": {
+                            "name": ".png", 
+                            "prefix": "https://foursquare.com/img/categories/food/cafe_", 
+                            "sizes": [
+                                32, 
+                                44, 
+                                64, 
+                                88, 
+                                256
+                            ]
+                        }, 
+                        "id": "4bf58dd8d48988d16d941735", 
+                        "name": "Caf\u00e9", 
+                        "pluralName": "Caf\u00e9s", 
+                        "primary": true, 
+                        "shortName": "Caf\u00e9"
+                    }
+                ], 
+                "contact": {}, 
+                "hereNow": {
+                    "count": 0
+                }, 
+                "id": "4e5baa04b61c4aaa3e194c18", 
+                "location": {
+                    "address": "W Custer Ave", 
+                    "city": "Lakewood", 
+                    "distance": 197, 
+                    "lat": 39.70591977, 
+                    "lng": -105.0759731, 
+                    "postalCode": "80226", 
+                    "state": "CO"
+                }, 
+                "name": "Starbucks @ Belmar 7166", 
+                "stats": {
+                    "checkinsCount": 18, 
+                    "tipCount": 0, 
+                    "usersCount": 2
+                }, 
+                "verified": false
+            }, 
+            {
+                "categories": [
+                    {
+                        "icon": {
+                            "name": ".png", 
+                            "prefix": "https://foursquare.com/img/categories/food/sandwiches_", 
+                            "sizes": [
+                                32, 
+                                44, 
+                                64, 
+                                88, 
+                                256
+                            ]
+                        }, 
+                        "id": "4bf58dd8d48988d1c5941735", 
+                        "name": "Sandwich Place", 
+                        "pluralName": "Sandwich Places", 
+                        "primary": true, 
+                        "shortName": "Sandwiches"
+                    }
+                ], 
+                "contact": {
+                    "formattedPhone": "(303) 934-1552", 
+                    "phone": "3039341552"
+                }, 
+                "hereNow": {
+                    "count": 0
+                }, 
+                "id": "4dc7303b52b1e8f9f7ffb2c7", 
+                "location": {
+                    "address": "650 S Wadsworth Blvd", 
+                    "city": "Lakewood", 
+                    "distance": 312, 
+                    "lat": 39.70454692840576, 
+                    "lng": -105.08087038993835, 
+                    "postalCode": "80226", 
+                    "state": "Colorado"
+                }, 
+                "name": "Firehouse Subs", 
+                "stats": {
+                    "checkinsCount": 311, 
+                    "tipCount": 6, 
+                    "usersCount": 148
+                }, 
+                "verified": false
+            }, 
+            {
+                "categories": [
+                    {
+                        "icon": {
+                            "name": ".png", 
+                            "prefix": "https://foursquare.com/img/categories/shops/technology_", 
+                            "sizes": [
+                                32, 
+                                44, 
+                                64, 
+                                88, 
+                                256
+                            ]
+                        }, 
+                        "id": "4bf58dd8d48988d122951735", 
+                        "name": "Electronics Store", 
+                        "pluralName": "Electronics Stores", 
+                        "primary": true, 
+                        "shortName": "Electronics"
+                    }
+                ], 
+                "contact": {
+                    "formattedPhone": "(303) 934-2724", 
+                    "phone": "3039342724", 
+                    "twitter": "shareatt"
+                }, 
+                "hereNow": {
+                    "count": 0
+                }, 
+                "id": "4b5a54d2f964a520d1bd28e3", 
+                "location": {
+                    "address": "7365 W Alaska Dr", 
+                    "city": "Lakewood", 
+                    "distance": 308, 
+                    "lat": 39.709089166666665, 
+                    "lng": -105.07927, 
+                    "postalCode": "80226", 
+                    "state": "Colorado"
+                }, 
+                "name": "AT&T", 
+                "specials": [
+                    {
+                        "finePrint": "See store rep for details. Limited time offer. While supplies last.", 
+                        "icon": "check-in", 
+                        "id": "4ecd540b0cd62a61dcaa29f9", 
+                        "message": "Check in to get the Sony Ericsson Play 4G and accessory bundle for only $80. Accessories include car charger, Bluetooth and screen protector ($135 in value)!", 
+                        "provider": "foursquare", 
+                        "redemption": "standard", 
+                        "title": "Check-in Special", 
+                        "type": "frequency"
+                    }
+                ], 
+                "stats": {
+                    "checkinsCount": 503, 
+                    "tipCount": 2, 
+                    "usersCount": 53
+                }, 
+                "verified": true
+            }, 
+            {
+                "categories": [
+                    {
+                        "icon": {
+                            "name": ".png", 
+                            "prefix": "https://foursquare.com/img/categories/food/wings_", 
+                            "sizes": [
+                                32, 
+                                44, 
+                                64, 
+                                88, 
+                                256
+                            ]
+                        }, 
+                        "id": "4bf58dd8d48988d14c941735", 
+                        "name": "Wings Joint", 
+                        "pluralName": "Wings Joints", 
+                        "primary": true, 
+                        "shortName": "Wings"
+                    }
+                ], 
+                "contact": {
+                    "formattedPhone": "(720) 963-9464", 
+                    "phone": "7209639464"
+                }, 
+                "hereNow": {
+                    "count": 0
+                }, 
+                "id": "4abfc9a6f964a5202f9220e3", 
+                "location": {
+                    "address": "415 S Wadsworth Blvd", 
+                    "city": "Denver", 
+                    "distance": 410, 
+                    "lat": 39.70877821, 
+                    "lng": -105.08188879, 
+                    "postalCode": "80226", 
+                    "state": "CO"
+                }, 
+                "name": "Buffalo Wild Wings", 
+                "stats": {
+                    "checkinsCount": 1626, 
+                    "tipCount": 17, 
+                    "usersCount": 831
+                }, 
+                "verified": false
+            }, 
+            {
+                "categories": [], 
+                "contact": {}, 
+                "hereNow": {
+                    "count": 0
+                }, 
+                "id": "4c5b4e88857ca593682ec7cb", 
+                "location": {
+                    "distance": 225, 
+                    "lat": 39.707500216666666, 
+                    "lng": -105.0759389
+                }, 
+                "name": "7133 W Virginia Apts", 
+                "stats": {
+                    "checkinsCount": 190, 
+                    "tipCount": 0, 
+                    "usersCount": 7
+                }, 
+                "verified": false
+            }, 
+            {
+                "categories": [], 
+                "contact": {}, 
+                "hereNow": {
+                    "count": 0
+                }, 
+                "id": "4ba540dff964a52021f238e3", 
+                "location": {
+                    "distance": 240, 
+                    "lat": 39.706342, 
+                    "lng": -105.080987
+                }, 
+                "name": "1st Bank", 
+                "stats": {
+                    "checkinsCount": 110, 
+                    "tipCount": 1, 
+                    "usersCount": 55
+                }, 
+                "verified": false
+            }, 
+            {
+                "categories": [
+                    {
+                        "icon": {
+                            "name": ".png", 
+                            "prefix": "https://foursquare.com/img/categories/shops/technology_", 
+                            "sizes": [
+                                32, 
+                                44, 
+                                64, 
+                                88, 
+                                256
+                            ]
+                        }, 
+                        "id": "4bf58dd8d48988d122951735", 
+                        "name": "Electronics Store", 
+                        "pluralName": "Electronics Stores", 
+                        "primary": true, 
+                        "shortName": "Electronics"
+                    }
+                ], 
+                "contact": {
+                    "formattedPhone": "(303) 934-2724", 
+                    "phone": "3039342724"
+                }, 
+                "hereNow": {
+                    "count": 0
+                }, 
+                "id": "4c101d45f1b6a593ff647b27", 
+                "location": {
+                    "address": "7365 W Alaska Dr", 
+                    "city": "Lakewood", 
+                    "country": "USA", 
+                    "distance": 315, 
+                    "lat": 39.7091511, 
+                    "lng": -105.0792823, 
+                    "postalCode": "80226", 
+                    "state": "CO"
+                }, 
+                "name": "AT&T Mobility", 
+                "stats": {
+                    "checkinsCount": 247, 
+                    "tipCount": 1, 
+                    "usersCount": 17
+                }, 
+                "verified": false
+            }, 
+            {
+                "categories": [
+                    {
+                        "icon": {
+                            "name": ".png", 
+                            "prefix": "https://foursquare.com/img/categories/food/pizza_", 
+                            "sizes": [
+                                32, 
+                                44, 
+                                64, 
+                                88, 
+                                256
+                            ]
+                        }, 
+                        "id": "4bf58dd8d48988d1ca941735", 
+                        "name": "Pizza Place", 
+                        "pluralName": "Pizza Places", 
+                        "primary": true, 
+                        "shortName": "Pizza"
+                    }
+                ], 
+                "contact": {}, 
+                "hereNow": {
+                    "count": 0
+                }, 
+                "id": "4eb87df67bebd8eec27e902c", 
+                "location": {
+                    "address": "7399 W. Alaska Drive", 
+                    "city": "Lakewood", 
+                    "crossStreet": "S. Vance Street", 
+                    "distance": 352, 
+                    "lat": 39.70946469617496, 
+                    "lng": -105.0794005393982, 
+                    "postalCode": "80226", 
+                    "state": "CO"
+                }, 
+                "name": "The Rock Wood Fired Pizza & Spirits", 
+                "stats": {
+                    "checkinsCount": 51, 
+                    "tipCount": 4, 
+                    "usersCount": 34
+                }, 
+                "verified": false
+            }, 
+            {
+                "categories": [
+                    {
+                        "icon": {
+                            "name": ".png", 
+                            "prefix": "https://foursquare.com/img/categories/food/coffeeshop_", 
+                            "sizes": [
+                                32, 
+                                44, 
+                                64, 
+                                88, 
+                                256
+                            ]
+                        }, 
+                        "id": "4bf58dd8d48988d1e0931735", 
+                        "name": "Coffee Shop", 
+                        "pluralName": "Coffee Shops", 
+                        "primary": true, 
+                        "shortName": "Coffee Shop"
+                    }
+                ], 
+                "contact": {
+                    "formattedPhone": "(303) 922-0911", 
+                    "phone": "3039220911"
+                }, 
+                "hereNow": {
+                    "count": 0
+                }, 
+                "id": "4a85705af964a52043fe1fe3", 
+                "location": {
+                    "address": "7150 W Alaska Dr", 
+                    "city": "Lakewood", 
+                    "country": "USA", 
+                    "crossStreet": "btw Teller and Saulsbury", 
+                    "distance": 360, 
+                    "lat": 39.70921325683594, 
+                    "lng": -105.076005, 
+                    "postalCode": "80226", 
+                    "state": "CO"
+                }, 
+                "name": "The Press Coffee Company", 
+                "specials": [
+                    {
+                        "icon": "frequency", 
+                        "id": "4c4deca3960e76b02d31d4e6", 
+                        "message": "First time checking in at the Press? Get a free biscotti with any drink purchase!\r\nCome in five times in ten days and get any frozen-blended Coffee Creme on us!", 
+                        "provider": "foursquare", 
+                        "redemption": "standard", 
+                        "title": "Loyalty Special", 
+                        "type": "regular"
+                    }
+                ], 
+                "stats": {
+                    "checkinsCount": 1035, 
+                    "tipCount": 11, 
+                    "usersCount": 252
+                }, 
+                "verified": true
+            }, 
+            {
+                "categories": [
+                    {
+                        "icon": {
+                            "name": ".png", 
+                            "prefix": "https://foursquare.com/img/categories/food/default_", 
+                            "sizes": [
+                                32, 
+                                44, 
+                                64, 
+                                88, 
+                                256
+                            ]
+                        }, 
+                        "id": "4bf58dd8d48988d1c4941735", 
+                        "name": "Restaurant", 
+                        "pluralName": "Restaurants", 
+                        "primary": true, 
+                        "shortName": "Other - Food"
+                    }
+                ], 
+                "contact": {
+                    "formattedPhone": "(303) 922-7907", 
+                    "phone": "3039227907"
+                }, 
+                "hereNow": {
+                    "count": 0
+                }, 
+                "id": "4bfdcf4fe9309521b92062ab", 
+                "location": {
+                    "address": "7111 W Alaska Dr.", 
+                    "city": "Denver", 
+                    "country": "USA", 
+                    "distance": 412, 
+                    "lat": 39.70940709114075, 
+                    "lng": -105.07528746, 
+                    "postalCode": "80226", 
+                    "state": "CO"
+                }, 
+                "name": "Elephant Bar Restaurant", 
+                "stats": {
+                    "checkinsCount": 758, 
+                    "tipCount": 9, 
+                    "usersCount": 527
+                }, 
+                "verified": false
+            }, 
+            {
+                "categories": [
+                    {
+                        "icon": {
+                            "name": ".png", 
+                            "prefix": "https://foursquare.com/img/categories/building/default_", 
+                            "sizes": [
+                                32, 
+                                44, 
+                                64, 
+                                88, 
+                                256
+                            ]
+                        }, 
+                        "id": "4d954b06a243a5684965b473", 
+                        "name": "Apartment Building / Condo Complex", 
+                        "pluralName": "Apartment Buildings / Condo Complexes", 
+                        "primary": true, 
+                        "shortName": "Apartment Buildings"
+                    }
+                ], 
+                "contact": {}, 
+                "hereNow": {
+                    "count": 1
+                }, 
+                "id": "4dfc2a12e4cdbe059c385691", 
+                "location": {
+                    "address": "825 S Vance St.", 
+                    "city": "Lakewood", 
+                    "distance": 456, 
+                    "lat": 39.70266401767731, 
+                    "lng": -105.08025884628296, 
+                    "postalCode": "80226", 
+                    "state": "CO"
+                }, 
+                "name": "Hillside Pointe Apartments", 
+                "stats": {
+                    "checkinsCount": 107, 
+                    "tipCount": 1, 
+                    "usersCount": 14
+                }, 
+                "verified": false
+            }, 
+            {
+                "categories": [
+                    {
+                        "icon": {
+                            "name": ".png", 
+                            "prefix": "https://foursquare.com/img/categories/food/dessert_", 
+                            "sizes": [
+                                32, 
+                                44, 
+                                64, 
+                                88, 
+                                256
+                            ]
+                        }, 
+                        "id": "4bf58dd8d48988d1d0941735", 
+                        "name": "Dessert Shop", 
+                        "pluralName": "Dessert Shops", 
+                        "primary": true, 
+                        "shortName": "Desserts"
+                    }
+                ], 
+                "contact": {}, 
+                "hereNow": {
+                    "count": 0
+                }, 
+                "id": "4e8fb27b02d5ee38b67e3ea5", 
+                "location": {
+                    "address": "7357 W Alaska dr", 
+                    "city": "Lakewood", 
+                    "distance": 295, 
+                    "lat": 39.708983, 
+                    "lng": -105.079192, 
+                    "postalCode": "80226", 
+                    "state": "Co"
+                }, 
+                "name": "Zinga! Frozen Yogurt", 
+                "stats": {
+                    "checkinsCount": 38, 
+                    "tipCount": 1, 
+                    "usersCount": 29
+                }, 
+                "verified": false
+            }, 
+            {
+                "categories": [], 
+                "contact": {}, 
+                "hereNow": {
+                    "count": 0
+                }, 
+                "id": "4bb2860c42959c747af7202c", 
+                "location": {
+                    "address": "7301 W Ohio Ave", 
+                    "city": "Lakewood", 
+                    "crossStreet": "btwn Wadsworth and Pierce", 
+                    "distance": 374, 
+                    "lat": 39.70337222543983, 
+                    "lng": -105.076389, 
+                    "postalCode": "80226", 
+                    "state": "CO"
+                }, 
+                "name": "Genesis Health and Fitness", 
+                "stats": {
+                    "checkinsCount": 74, 
+                    "tipCount": 1, 
+                    "usersCount": 4
+                }, 
+                "verified": false
+            }, 
+            {
+                "categories": [
+                    {
+                        "icon": {
+                            "name": ".png", 
+                            "prefix": "https://foursquare.com/img/categories/shops/default_", 
+                            "sizes": [
+                                32, 
+                                44, 
+                                64, 
+                                88, 
+                                256
+                            ]
+                        }, 
+                        "id": "4bf58dd8d48988d1fd941735", 
+                        "name": "Mall", 
+                        "pluralName": "Malls", 
+                        "primary": true, 
+                        "shortName": "Mall"
+                    }
+                ], 
+                "contact": {}, 
+                "hereNow": {
+                    "count": 0
+                }, 
+                "id": "4c143493b7b9c9285708ab37", 
+                "location": {
+                    "distance": 394, 
+                    "lat": 39.708332, 
+                    "lng": -105.074281
+                }, 
+                "name": "Bel Mar", 
+                "stats": {
+                    "checkinsCount": 286, 
+                    "tipCount": 1, 
+                    "usersCount": 93
+                }, 
+                "verified": false
+            }, 
+            {
+                "categories": [], 
+                "contact": {
+                    "formattedPhone": "(303) 975-9616", 
+                    "phone": "3039759616"
+                }, 
+                "hereNow": {
+                    "count": 0
+                }, 
+                "id": "4b0987e4f964a520e51823e3", 
+                "location": {
+                    "address": "679 South Reed Court Bldg 3", 
+                    "city": "Lakewood", 
+                    "distance": 318, 
+                    "lat": 39.704571, 
+                    "lng": -105.07537186145782, 
+                    "postalCode": "80226", 
+                    "state": "CO"
+                }, 
+                "name": "Lakeview Towers", 
+                "stats": {
+                    "checkinsCount": 44, 
+                    "tipCount": 0, 
+                    "usersCount": 13
+                }, 
+                "verified": false
+            }, 
+            {
+                "categories": [
+                    {
+                        "icon": {
+                            "name": ".png", 
+                            "prefix": "https://foursquare.com/img/categories/food/salad_", 
+                            "sizes": [
+                                32, 
+                                44, 
+                                64, 
+                                88, 
+                                256
+                            ]
+                        }, 
+                        "id": "4bf58dd8d48988d1bd941735", 
+                        "name": "Salad Place", 
+                        "pluralName": "Salad Shop", 
+                        "primary": true, 
+                        "shortName": "Salad"
+                    }
+                ], 
+                "contact": {
+                    "formattedPhone": "(303) 989-2202", 
+                    "phone": "3039892202"
+                }, 
+                "hereNow": {
+                    "count": 0
+                }, 
+                "id": "4b4b763df964a520ae9c26e3", 
+                "location": {
+                    "address": "7650 W Virginia Ave", 
+                    "city": "Denver", 
+                    "country": "USA", 
+                    "crossStreet": "Wadsworth & Virginia", 
+                    "distance": 331, 
+                    "lat": 39.70662295818329, 
+                    "lng": -105.0820397, 
+                    "postalCode": "80226", 
+                    "state": "CO"
+                }, 
+                "name": "Souper Salad", 
+                "stats": {
+                    "checkinsCount": 187, 
+                    "tipCount": 1, 
+                    "usersCount": 125
+                }, 
+                "verified": false
+            }, 
+            {
+                "categories": [
+                    {
+                        "icon": {
+                            "name": ".png", 
+                            "prefix": "https://foursquare.com/img/categories/food/icecream_", 
+                            "sizes": [
+                                32, 
+                                44, 
+                                64, 
+                                88, 
+                                256
+                            ]
+                        }, 
+                        "id": "4bf58dd8d48988d1c9941735", 
+                        "name": "Ice Cream Shop", 
+                        "pluralName": "Ice Cream Shops", 
+                        "primary": true, 
+                        "shortName": "Ice Cream"
+                    }
+                ], 
+                "contact": {}, 
+                "hereNow": {
+                    "count": 0
+                }, 
+                "id": "4edae49530f83fb79d4efa99", 
+                "location": {
+                    "address": "W Alaska Dr, Lakewood, CO 80228", 
+                    "city": "Lakewood", 
+                    "distance": 183, 
+                    "lat": 39.705794573618476, 
+                    "lng": -105.08015479375685, 
+                    "postalCode": "80228", 
+                    "state": "CO"
+                }, 
+                "name": "Zynga Belmar", 
+                "stats": {
+                    "checkinsCount": 1, 
+                    "tipCount": 0, 
+                    "usersCount": 1
+                }, 
+                "verified": false
+            }, 
+            {
+                "categories": [
+                    {
+                        "icon": {
+                            "name": ".png", 
+                            "prefix": "https://foursquare.com/img/categories/shops/default_", 
+                            "sizes": [
+                                32, 
+                                44, 
+                                64, 
+                                88, 
+                                256
+                            ]
+                        }, 
+                        "id": "4d4b7105d754a06378d81259", 
+                        "name": "Shop & Service", 
+                        "pluralName": "Shops & Services", 
+                        "primary": true, 
+                        "shortName": "Shops"
+                    }
+                ], 
+                "contact": {
+                    "formattedPhone": "(720) 389-3420", 
+                    "phone": "7203893420"
+                }, 
+                "hereNow": {
+                    "count": 0
+                }, 
+                "id": "4db9733cfa8c978590cfd66a", 
+                "location": {
+                    "address": "393 S Vance St", 
+                    "city": "Lakewood", 
+                    "distance": 401, 
+                    "lat": 39.709738, 
+                    "lng": -105.080105, 
+                    "state": "CO"
+                }, 
+                "name": "Nordstrom Rack Belmar", 
+                "stats": {
+                    "checkinsCount": 247, 
+                    "tipCount": 0, 
+                    "usersCount": 144
+                }, 
+                "verified": false
+            }, 
+            {
+                "categories": [
+                    {
+                        "icon": {
+                            "name": ".png", 
+                            "prefix": "https://foursquare.com/img/categories/building/default_", 
+                            "sizes": [
+                                32, 
+                                44, 
+                                64, 
+                                88, 
+                                256
+                            ]
+                        }, 
+                        "id": "4bf58dd8d48988d174941735", 
+                        "name": "Coworking Space", 
+                        "pluralName": "Coworking Spaces", 
+                        "primary": true, 
+                        "shortName": "Coworking Space"
+                    }
+                ], 
+                "contact": {}, 
+                "hereNow": {
+                    "count": 0
+                }, 
+                "id": "4d92273e270e6ea8b74663ff", 
+                "location": {
+                    "distance": 225, 
+                    "lat": 39.70754519, 
+                    "lng": -105.075972
+                }, 
+                "name": "Coram Healthcare", 
+                "stats": {
+                    "checkinsCount": 31, 
+                    "tipCount": 0, 
+                    "usersCount": 4
+                }, 
+                "verified": false
+            }, 
+            {
+                "categories": [
+                    {
+                        "icon": {
+                            "name": ".png", 
+                            "prefix": "https://foursquare.com/img/categories/shops/default_", 
+                            "sizes": [
+                                32, 
+                                44, 
+                                64, 
+                                88, 
+                                256
+                            ]
+                        }, 
+                        "id": "4bf58dd8d48988d1ff941735", 
+                        "name": "Miscellaneous Shop", 
+                        "pluralName": "Miscellaneous Shops", 
+                        "primary": true, 
+                        "shortName": "Other - Shop"
+                    }
+                ], 
+                "contact": {}, 
+                "hereNow": {
+                    "count": 0
+                }, 
+                "id": "4bb16848f964a5206d913ce3", 
+                "location": {
+                    "address": "S. Yarrow St.", 
+                    "city": "Lakewood", 
+                    "distance": 381, 
+                    "lat": 39.70515196, 
+                    "lng": -105.08230667, 
+                    "postalCode": "80226", 
+                    "state": "CO"
+                }, 
+                "name": "Belmar Commons", 
+                "stats": {
+                    "checkinsCount": 76, 
+                    "tipCount": 0, 
+                    "usersCount": 19
+                }, 
+                "verified": false
+            }, 
+            {
+                "categories": [
+                    {
+                        "icon": {
+                            "name": ".png", 
+                            "prefix": "https://foursquare.com/img/categories/shops/default_", 
+                            "sizes": [
+                                32, 
+                                44, 
+                                64, 
+                                88, 
+                                256
+                            ]
+                        }, 
+                        "id": "4bf58dd8d48988d1ed941735", 
+                        "name": "Spa or Massage", 
+                        "pluralName": "Spas or Massages", 
+                        "primary": true, 
+                        "shortName": "Spas / Massage"
+                    }
+                ], 
+                "contact": {
+                    "formattedPhone": "(303) 922-3689", 
+                    "phone": "3039223689"
+                }, 
+                "hereNow": {
+                    "count": 0
+                }, 
+                "id": "4c60a4dede6920a1da939664", 
+                "location": {
+                    "address": "7033 W Alaska Dr.", 
+                    "city": "Lakewood", 
+                    "country": "USA", 
+                    "distance": 421, 
+                    "lat": 39.708891, 
+                    "lng": -105.074423, 
+                    "postalCode": "80226", 
+                    "state": "CO"
+                }, 
+                "name": "Massage Envy Lakewood - ROCKS", 
+                "specials": [], 
+                "stats": {
+                    "checkinsCount": 364, 
+                    "tipCount": 1, 
+                    "usersCount": 24
+                }, 
+                "verified": false
+            }, 
+            {
+                "categories": [
+                    {
+                        "icon": {
+                            "name": ".png", 
+                            "prefix": "https://foursquare.com/img/categories/shops/beauty_cosmetic_", 
+                            "sizes": [
+                                32, 
+                                44, 
+                                64, 
+                                88, 
+                                256
+                            ]
+                        }, 
+                        "id": "4bf58dd8d48988d10c951735", 
+                        "name": "Cosmetics Shop", 
+                        "pluralName": "Cosmetics Shops", 
+                        "primary": true, 
+                        "shortName": "Beauty / Cosmetic"
+                    }
+                ], 
+                "contact": {
+                    "formattedPhone": "(303) 742-1520", 
+                    "phone": "3037421520", 
+                    "twitter": "LUVBBW"
+                }, 
+                "hereNow": {
+                    "count": 0
+                }, 
+                "id": "4b72f619f964a5205a922de3", 
+                "location": {
+                    "address": "400 S Teller St", 
+                    "city": "Lakewood", 
+                    "distance": 320, 
+                    "lat": 39.709058, 
+                    "lng": -105.07975294950856, 
+                    "postalCode": "80226", 
+                    "state": "CO"
+                }, 
+                "name": "Bath & Body Works", 
+                "stats": {
+                    "checkinsCount": 101, 
+                    "tipCount": 3, 
+                    "usersCount": 60
+                }, 
+                "url": "http://www.facebook.com/bathandbodyworks", 
+                "verified": true
+            }, 
+            {
+                "categories": [
+                    {
+                        "icon": {
+                            "name": ".png", 
+                            "prefix": "https://foursquare.com/img/categories/food/fastfood_", 
+                            "sizes": [
+                                32, 
+                                44, 
+                                64, 
+                                88, 
+                                256
+                            ]
+                        }, 
+                        "id": "4bf58dd8d48988d16e941735", 
+                        "name": "Fast Food Restaurant", 
+                        "pluralName": "Fast Food Restaurants", 
+                        "primary": true, 
+                        "shortName": "Fast Food"
+                    }
+                ], 
+                "contact": {
+                    "formattedPhone": "(303) 716-9200", 
+                    "phone": "3037169200", 
+                    "twitter": "CarlsJr"
+                }, 
+                "hereNow": {
+                    "count": 0
+                }, 
+                "id": "4b7d8a82f964a5207ac52fe3", 
+                "location": {
+                    "address": "497 S Wadsworth Blvd", 
+                    "city": "Denver", 
+                    "distance": 354, 
+                    "lat": 39.70742621666667, 
+                    "lng": -105.0821202993393, 
+                    "postalCode": "80226", 
+                    "state": "CO"
+                }, 
+                "name": "Carl's Jr", 
+                "stats": {
+                    "checkinsCount": 157, 
+                    "tipCount": 1, 
+                    "usersCount": 105
+                }, 
+                "url": "http://www.carlsjr.com", 
+                "verified": true
+            }, 
+            {
+                "categories": [
+                    {
+                        "icon": {
+                            "name": ".png", 
+                            "prefix": "https://foursquare.com/img/categories/shops/pet_store_", 
+                            "sizes": [
+                                32, 
+                                44, 
+                                64, 
+                                88, 
+                                256
+                            ]
+                        }, 
+                        "id": "4bf58dd8d48988d100951735", 
+                        "name": "Pet Store", 
+                        "pluralName": "Pet Stores", 
+                        "primary": true, 
+                        "shortName": "Pet Store"
+                    }
+                ], 
+                "contact": {}, 
+                "hereNow": {
+                    "count": 0
+                }, 
+                "id": "4c8c0541ed3ab60c04ea6321", 
+                "location": {
+                    "address": "7601-7671 W Virginia Ave", 
+                    "city": "Lakewood", 
+                    "distance": 428, 
+                    "lat": 39.70758132, 
+                    "lng": -105.08295948, 
+                    "postalCode": "80226", 
+                    "state": "CO"
+                }, 
+                "name": "Petco", 
+                "stats": {
+                    "checkinsCount": 172, 
+                    "tipCount": 2, 
+                    "usersCount": 92
+                }, 
+                "verified": false
+            }, 
+            {
+                "categories": [
+                    {
+                        "icon": {
+                            "name": ".png", 
+                            "prefix": "https://foursquare.com/img/categories/food/burger_", 
+                            "sizes": [
+                                32, 
+                                44, 
+                                64, 
+                                88, 
+                                256
+                            ]
+                        }, 
+                        "id": "4bf58dd8d48988d16c941735", 
+                        "name": "Burger Joint", 
+                        "pluralName": "Burger Joints", 
+                        "primary": true, 
+                        "shortName": "Burgers"
+                    }
+                ], 
+                "contact": {
+                    "formattedPhone": "(303) 742-9000", 
+                    "phone": "3037429000"
+                }, 
+                "hereNow": {
+                    "count": 0
+                }, 
+                "id": "4dd6cb9652b1a5c6443cc6b8", 
+                "location": {
+                    "address": "7085 W. Alaska Dr.", 
+                    "city": "Lakewood", 
+                    "crossStreet": "Saulsbury", 
+                    "distance": 410, 
+                    "lat": 39.709283, 
+                    "lng": -105.075128, 
+                    "postalCode": "80226", 
+                    "state": "CO"
+                }, 
+                "name": "Champa St. Burger Works", 
+                "specials": [], 
+                "stats": {
+                    "checkinsCount": 212, 
+                    "tipCount": 4, 
+                    "usersCount": 155
+                }, 
+                "verified": false
+            }, 
+            {
+                "categories": [
+                    {
+                        "icon": {
+                            "name": ".png", 
+                            "prefix": "https://foursquare.com/img/categories/nightlife/secretbar_", 
+                            "sizes": [
+                                32, 
+                                44, 
+                                64, 
+                                88, 
+                                256
+                            ]
+                        }, 
+                        "id": "4bf58dd8d48988d1d4941735", 
+                        "name": "Speakeasy", 
+                        "pluralName": "Speakeasies", 
+                        "primary": true, 
+                        "shortName": "Speakeasy / Secret Spot"
+                    }
+                ], 
+                "contact": {}, 
+                "hereNow": {
+                    "count": 0
+                }, 
+                "id": "4e6e8b31b993df929eff48b2", 
+                "location": {
+                    "distance": 221, 
+                    "lat": 39.706016540527344, 
+                    "lng": -105.07565307617188
+                }, 
+                "name": "Wombat Headquarters: Denver", 
+                "stats": {
+                    "checkinsCount": 31, 
+                    "tipCount": 0, 
+                    "usersCount": 5
+                }, 
+                "verified": false
+            }, 
+            {
+                "categories": [
+                    {
+                        "icon": {
+                            "name": ".png", 
+                            "prefix": "https://foursquare.com/img/categories/shops/beauty_cosmetic_", 
+                            "sizes": [
+                                32, 
+                                44, 
+                                64, 
+                                88, 
+                                256
+                            ]
+                        }, 
+                        "id": "4bf58dd8d48988d10c951735", 
+                        "name": "Cosmetics Shop", 
+                        "pluralName": "Cosmetics Shops", 
+                        "primary": true, 
+                        "shortName": "Beauty / Cosmetic"
+                    }
+                ], 
+                "contact": {}, 
+                "hereNow": {
+                    "count": 0
+                }, 
+                "id": "4b5b853ef964a520510429e3", 
+                "location": {
+                    "address": "489 S Wadsworth Blvd", 
+                    "city": "Lakewood", 
+                    "country": "USA", 
+                    "crossStreet": "near Alameda", 
+                    "distance": 419, 
+                    "lat": 39.707303, 
+                    "lng": -105.082946, 
+                    "postalCode": "80226", 
+                    "state": "CO"
+                }, 
+                "name": "Ulta 3", 
+                "stats": {
+                    "checkinsCount": 166, 
+                    "tipCount": 1, 
+                    "usersCount": 110
+                }, 
+                "verified": false
+            }, 
+            {
+                "categories": [
+                    {
+                        "icon": {
+                            "name": ".png", 
+                            "prefix": "https://foursquare.com/img/categories/shops/beauty_cosmetic_", 
+                            "sizes": [
+                                32, 
+                                44, 
+                                64, 
+                                88, 
+                                256
+                            ]
+                        }, 
+                        "id": "4bf58dd8d48988d10c951735", 
+                        "name": "Cosmetics Shop", 
+                        "pluralName": "Cosmetics Shops", 
+                        "primary": true, 
+                        "shortName": "Beauty / Cosmetic"
+                    }
+                ], 
+                "contact": {}, 
+                "hereNow": {
+                    "count": 0
+                }, 
+                "id": "4ce438dfef2db60c3be2c45b", 
+                "location": {
+                    "city": "Lakewood", 
+                    "distance": 436, 
+                    "lat": 39.707338, 
+                    "lng": -105.083144, 
+                    "postalCode": "80226", 
+                    "state": "Colorado"
+                }, 
+                "name": "Ulta", 
+                "stats": {
+                    "checkinsCount": 51, 
+                    "tipCount": 0, 
+                    "usersCount": 35
+                }, 
+                "verified": false
+            }, 
+            {
+                "categories": [
+                    {
+                        "icon": {
+                            "name": ".png", 
+                            "prefix": "https://foursquare.com/img/categories/food/asian_", 
+                            "sizes": [
+                                32, 
+                                44, 
+                                64, 
+                                88, 
+                                256
+                            ]
+                        }, 
+                        "id": "4bf58dd8d48988d142941735", 
+                        "name": "Asian Restaurant", 
+                        "pluralName": "Asian Restaurants", 
+                        "primary": true, 
+                        "shortName": "Asian"
+                    }
+                ], 
+                "contact": {
+                    "formattedPhone": "(303) 980-6676", 
+                    "phone": "3039806676"
+                }, 
+                "hereNow": {
+                    "count": 0
+                }, 
+                "id": "4b7f0a4cf964a520361230e3", 
+                "location": {
+                    "address": "7660 W Virginia Ave", 
+                    "city": "Denver", 
+                    "country": "USA", 
+                    "crossStreet": "at Wadsworth Blvd.", 
+                    "distance": 335, 
+                    "lat": 39.706277, 
+                    "lng": -105.082094, 
+                    "postalCode": "80226", 
+                    "state": "CO"
+                }, 
+                "name": "Panda Express", 
+                "stats": {
+                    "checkinsCount": 97, 
+                    "tipCount": 2, 
+                    "usersCount": 72
+                }, 
+                "verified": false
+            }, 
+            {
+                "categories": [], 
+                "contact": {}, 
+                "hereNow": {
+                    "count": 0
+                }, 
+                "id": "4db83345a86e0cd3b6604c2f", 
+                "location": {
+                    "address": "393 S Vance", 
+                    "city": "Lakewood", 
+                    "distance": 425, 
+                    "lat": 39.710013, 
+                    "lng": -105.079967, 
+                    "state": "CO"
+                }, 
+                "name": "Nordstrom Rack", 
+                "stats": {
+                    "checkinsCount": 60, 
+                    "tipCount": 1, 
+                    "usersCount": 49
+                }, 
+                "verified": false
+            }, 
+            {
+                "categories": [], 
+                "contact": {}, 
+                "hereNow": {
+                    "count": 0
+                }, 
+                "id": "4d0b80dc984a6ea82ddc9164", 
+                "location": {
+                    "address": "812 S Vance St", 
+                    "city": "Lakewood", 
+                    "distance": 375, 
+                    "lat": 39.70312535762787, 
+                    "lng": -105.07893919944763, 
+                    "postalCode": "80226", 
+                    "state": "Colorado"
+                }, 
+                "name": "Waterside Condos", 
+                "stats": {
+                    "checkinsCount": 183, 
+                    "tipCount": 0, 
+                    "usersCount": 8
+                }, 
+                "verified": false
+            }, 
+            {
+                "categories": [
+                    {
+                        "icon": {
+                            "name": ".png", 
+                            "prefix": "https://foursquare.com/img/categories/building/default_", 
+                            "sizes": [
+                                32, 
+                                44, 
+                                64, 
+                                88, 
+                                256
+                            ]
+                        }, 
+                        "id": "4bf58dd8d48988d130941735", 
+                        "name": "Building", 
+                        "pluralName": "Buildings", 
+                        "primary": true, 
+                        "shortName": "Other - Buildings"
+                    }
+                ], 
+                "contact": {}, 
+                "hereNow": {
+                    "count": 0
+                }, 
+                "id": "4ba55e7cf964a520030039e3", 
+                "location": {
+                    "city": "Lakewood", 
+                    "crossStreet": "Belmar", 
+                    "distance": 269, 
+                    "lat": 39.70834493637085, 
+                    "lng": -105.08012726666668, 
+                    "state": "CO"
+                }, 
+                "name": "Mile High Liquors", 
+                "stats": {
+                    "checkinsCount": 58, 
+                    "tipCount": 0, 
+                    "usersCount": 41
+                }, 
+                "verified": false
+            }, 
+            {
+                "categories": [
+                    {
+                        "icon": {
+                            "name": ".png", 
+                            "prefix": "https://foursquare.com/img/categories/food/pizza_", 
+                            "sizes": [
+                                32, 
+                                44, 
+                                64, 
+                                88, 
+                                256
+                            ]
+                        }, 
+                        "id": "4bf58dd8d48988d1ca941735", 
+                        "name": "Pizza Place", 
+                        "pluralName": "Pizza Places", 
+                        "primary": true, 
+                        "shortName": "Pizza"
+                    }
+                ], 
+                "contact": {}, 
+                "hereNow": {
+                    "count": 0
+                }, 
+                "id": "4eb345c9b8f786e27445bf35", 
+                "location": {
+                    "city": "Denver", 
+                    "distance": 400, 
+                    "lat": 39.709863762475564, 
+                    "lng": -105.07964299646254, 
+                    "postalCode": "80226", 
+                    "state": "CO"
+                }, 
+                "name": "The Rock Woodfired Pizza", 
+                "stats": {
+                    "checkinsCount": 16, 
+                    "tipCount": 1, 
+                    "usersCount": 11
+                }, 
+                "verified": false
+            }, 
+            {
+                "categories": [
+                    {
+                        "icon": {
+                            "name": ".png", 
+                            "prefix": "https://foursquare.com/img/categories/building/gym_", 
+                            "sizes": [
+                                32, 
+                                44, 
+                                64, 
+                                88, 
+                                256
+                            ]
+                        }, 
+                        "id": "4bf58dd8d48988d176941735", 
+                        "name": "Gym", 
+                        "pluralName": "Gyms", 
+                        "primary": true, 
+                        "shortName": "Gym"
+                    }
+                ], 
+                "contact": {
+                    "formattedPhone": "30305561324", 
+                    "phone": "30305561324"
+                }, 
+                "hereNow": {
+                    "count": 0
+                }, 
+                "id": "4c16a60e955976b05ee0a4f6", 
+                "location": {
+                    "address": "7171 W Alaska Dr", 
+                    "city": "Lakewood", 
+                    "distance": 418, 
+                    "lat": 39.70985, 
+                    "lng": -105.0761, 
+                    "postalCode": "80226", 
+                    "state": "Colorado"
+                }, 
+                "name": "Ballys Total Fitness", 
+                "stats": {
+                    "checkinsCount": 154, 
+                    "tipCount": 1, 
+                    "usersCount": 28
+                }, 
+                "verified": false
+            }, 
+            {
+                "categories": [
+                    {
+                        "icon": {
+                            "name": ".png", 
+                            "prefix": "https://foursquare.com/img/categories/building/parking_", 
+                            "sizes": [
+                                32, 
+                                44, 
+                                64, 
+                                88, 
+                                256
+                            ]
+                        }, 
+                        "id": "4c38df4de52ce0d596b336e1", 
+                        "name": "Parking", 
+                        "pluralName": "Parking", 
+                        "primary": true, 
+                        "shortName": "Parking"
+                    }
+                ], 
+                "contact": {}, 
+                "hereNow": {
+                    "count": 0
+                }, 
+                "id": "4e5259a722710da1b3dcadc6", 
+                "location": {
+                    "distance": 272, 
+                    "lat": 39.70713016, 
+                    "lng": -105.08123201
+                }, 
+                "name": "Belmar Park And Ride", 
+                "stats": {
+                    "checkinsCount": 6, 
+                    "tipCount": 0, 
+                    "usersCount": 1
+                }, 
+                "verified": false
+            }
+        ]
+    }
+}

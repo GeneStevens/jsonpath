@@ -1,0 +1,12 @@
+{application, jsonpath,
+ [
+  {description, ""},
+  {vsn, "1"},
+  {registered, []},
+  {applications, [
+                  kernel,
+                  stdlib
+                 ]},
+  {mod, { jsonpath_app, []}},
+  {env, []}
+ ]}.
