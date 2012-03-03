@@ -18,9 +18,9 @@
 %% specific language governing permissions and limitations
 %% under the License.
 %%
-%% @doc Sends a message to all subscribers of a tag
+%% @doc Fast javascript-like "path" notation for querying and updating JSON
 %% @author Gene Stevens <gene@triplenexus.org>
-%% @copyright (c) 2011 Gene Stevens.  All Rights Reserved.
+%% @copyright (c) 2012 Gene Stevens.  All Rights Reserved.
 %%
 -module(jsonpath).
 -export([search/2, replace/3]).

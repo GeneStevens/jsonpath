@@ -1,8 +1,12 @@
--module(jsonpath_test).
+-module(jsonpath_tests).
+-include_lib("eunit/include/eunit.hrl").
 -export([bench/4]).
 
+
+
+
 bench(M, F, A, N) when N > 0 ->
-        L = test_loop(M, F, A, N, []),
+        L = bench_loop(M, F, A, N, []),
         Length = length(L),
         Min = lists:min(L),
         Max = lists:max(L),
@@ -14,8 +18,8 @@ bench(M, F, A, N) when N > 0 ->
                   [Min, Max, Med, Avg]),
         Med.
 
-test_loop(_M, _F, _A, 0, List) ->
+bench_loop(_M, _F, _A, 0, List) ->
         List;
-test_loop(M, F, A, N, List) ->
+bench_loop(M, F, A, N, List) ->
         {T, _Result} = timer:tc(M, F, A),
-        test_loop(M, F, A, N - 1, [T|List]).
+        bench_loop(M, F, A, N - 1, [T|List]).
