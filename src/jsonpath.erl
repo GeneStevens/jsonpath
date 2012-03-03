@@ -24,7 +24,7 @@
 %%
 -module(jsonpath).
 -export([search/2, replace/3]).
--export([parse_path/1, say_ok/0]).
+-export([parse_path/1]).
 
 -include("jsonpath.hrl").
 
@@ -158,5 +158,3 @@ parse_path(Path) ->
 	Split = binary:split(Path, [<<".">>,<<"[">>,<<"]">>], [global]),
 	lists:filter(fun(X) -> X =/= <<>> end, Split).
 
-say_ok() ->
-	ok.
