@@ -63,7 +63,7 @@ replace_list([SearchHead|SearchTail], Replace, List) ->
 			%?DEBUG("This is not an integer: ~p", [SearchHead]),
 			undefined
 	end.
-replace_list([SearchHead|SearchTail], Replace, [], Count, Accum) ->
+replace_list([_SearchHead|_SearchTail], _Replace, [], _Count, Accum) ->
 	%?DEBUG("at the end of this list with accum: ~p", [Accum]),
 	lists:reverse(Accum);
 replace_list([SearchHead|SearchTail], Replace, [Head|Tail], Count, Accum) ->
@@ -87,7 +87,7 @@ replace_list([SearchHead|SearchTail], Replace, [Head|Tail], Count, Accum) ->
 
 replace_tuple_list([SearchHead|SearchTail], Replace, TupleList) ->
 	replace_tuple_list([SearchHead|SearchTail], Replace, TupleList, []).
-replace_tuple_list([SearchHead|SearchTail], Replace, [], Accum) ->
+replace_tuple_list([_SearchHead|_SearchTail], _Replace, [], Accum) ->
 	%?DEBUG("at the end of this tuple list with accum: ~p", [Accum]),
 	lists:reverse(Accum);
 replace_tuple_list([SearchHead|SearchTail], Replace, [Head|Tail], Accum) ->
@@ -102,7 +102,7 @@ replace_tuple_list([SearchHead|SearchTail], Replace, [Head|Tail], Accum) ->
 					%?DEBUG("Not last, so no replacement, but replaceing into : ~p",[Head]),
 					{SearchHead, replace_data(SearchTail, Replace, Value) }
 			end;
-		Other ->
+		_Other ->
 			%?DEBUG("No match for ~p: ~p", [SearchHead, Other]),
 			Head
 	end,
@@ -118,10 +118,10 @@ search_data([Head|Tail], Data) ->
 			search_data(Tail, Data);
 		_Other ->
 			case Data of 
-				{Tuple} ->
+				{_Tuple} ->
 					%?DEBUG("found tuple: ~p", [Tuple]),
 					search_tuple([Head|Tail], Data);
-				List ->
+				_List ->
 					%?DEBUG("found list: ~p", [List]),
 					search_list([Head|Tail], Data)
 			end
