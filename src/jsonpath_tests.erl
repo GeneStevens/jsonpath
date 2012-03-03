@@ -15,45 +15,47 @@
 }}">>).
 
 search_single_node_test() ->
-	<<"file">> = jsonpath:search(<<"menu.id">>, ?JSON).
+	?assertEqual(<<"file">>, jsonpath:search(<<"menu.id">>, ?JSON)).
 
 search_single_node_undefined_test() ->
-	undefined = jsonpath:search(<<"menu.id.noexist">>, ?JSON).
+	?assertEqual(undefined, jsonpath:search(<<"menu.id.noexist">>, ?JSON)).
 
 search_array_result_test() ->
-	[_H|_T] = jsonpath:search(<<"menu.popup.menuitem">>, ?JSON).
+	?assertMatch([_H|_T], jsonpath:search(<<"menu.popup.menuitem">>, ?JSON)).
 
 search_array_index_test() ->
-	{[{<<"value">>,<<"Open">>},
-		{<<"onclick">>,<<"OpenDoc()">>}]}
-	= jsonpath:search(<<"menu.popup.menuitem[1]">>, ?JSON).
+	?assertEqual({[{<<"value">>,<<"Open">>},
+			{<<"onclick">>,<<"OpenDoc()">>}]},
+		jsonpath:search(<<"menu.popup.menuitem[1]">>, ?JSON)).
 
 replace_single_node_test() ->
-	{[{<<"menu">>,
-	   {[{<<"id">>,<<"foo">>},
-		 {<<"value">>,<<"File">>},
-		 {<<"popup">>,
-		  {[{<<"menuitem">>,
-			 [{[{<<"value">>,<<"New">>},
-				{<<"onclick">>,<<"CreateNewDoc()">>}]},
-			  {[{<<"value">>,<<"Open">>},{<<"onclick">>,<<"OpenDoc()">>}]},
-			  {[{<<"value">>,<<"Close">>},
-                {<<"onclick">>,<<"CloseDoc()">>}]}]}]}}]}}]}
-	= jsonpath:replace(<<"menu.id">>, <<"foo">>, ?JSON).
+	?assertEqual(
+		{[{<<"menu">>,
+		   {[{<<"id">>,<<"foo">>},
+			 {<<"value">>,<<"File">>},
+			 {<<"popup">>,
+			  {[{<<"menuitem">>,
+				 [{[{<<"value">>,<<"New">>},
+					{<<"onclick">>,<<"CreateNewDoc()">>}]},
+				  {[{<<"value">>,<<"Open">>},{<<"onclick">>,<<"OpenDoc()">>}]},
+				  {[{<<"value">>,<<"Close">>},
+					{<<"onclick">>,<<"CloseDoc()">>}]}]}]}}]}}]},
+		jsonpath:replace(<<"menu.id">>, <<"foo">>, ?JSON)).
 
 replace_array_index_test() ->
-	{[{<<"menu">>,
-	   {[{<<"id">>,<<"file">>},
-		 {<<"value">>,<<"File">>},
-		 {<<"popup">>,
-		  {[{<<"menuitem">>,
-			 [{[{<<"value">>,<<"New">>},
-				{<<"onclick">>,<<"CreateNewDoc()">>}]},
-			  {[{<<"value">>,<<"foo">>},
-                {<<"onclick">>,<<"OpenDoc()">>}]},
-			  {[{<<"value">>,<<"Close">>},
-				{<<"onclick">>,<<"CloseDoc()">>}]}]}]}}]}}]}
-	 = jsonpath:replace(<<"menu.popup.menuitem[1].value">>, <<"foo">>, ?JSON).
+	?assertEqual(
+		{[{<<"menu">>,
+		   {[{<<"id">>,<<"file">>},
+			 {<<"value">>,<<"File">>},
+			 {<<"popup">>,
+			  {[{<<"menuitem">>,
+				 [{[{<<"value">>,<<"New">>},
+					{<<"onclick">>,<<"CreateNewDoc()">>}]},
+				  {[{<<"value">>,<<"foo">>},
+					{<<"onclick">>,<<"OpenDoc()">>}]},
+				  {[{<<"value">>,<<"Close">>},
+					{<<"onclick">>,<<"CloseDoc()">>}]}]}]}}]}}]},
+	 	jsonpath:replace(<<"menu.popup.menuitem[1].value">>, <<"foo">>, ?JSON)).
 
 bench(M, F, A, N) when N > 0 ->
         L = bench_loop(M, F, A, N, []),
