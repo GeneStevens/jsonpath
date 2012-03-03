@@ -1,3 +1,6 @@
+%% @doc Unit Tests for jsonpath.erl
+%% @author Gene Stevens <gene@triplenexus.org>
+%% @copyright (c) 2012 Gene Stevens.  All Rights Reserved.
 -module(jsonpath_tests).
 -include_lib("eunit/include/eunit.hrl").
 -export([bench/4]).
