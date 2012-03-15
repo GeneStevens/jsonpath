@@ -41,6 +41,7 @@ Using an 80KB Foursquare API venue search document to read a very specific node 
 ```
 
 Pre-decode the binary document into a structured Erlang term (via jiffy) and run that query one million times:
+
 ```erlang
 (jsonpath@127.0.0.1)3> JiffyData = jiffy:decode(Data2).
 {[{<<"meta">>,{[{<<"code">>,200}]}},
@@ -55,5 +56,6 @@ Average: 5 mics
 5
 (jsonpath@127.0.0.1)5>
 ```
+
 That's 5 microseconds on average on a MacBook Pro.
 
