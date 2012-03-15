@@ -1,6 +1,6 @@
 # JSONPath
 
-JSONPath is an Erlang-based fast JSON data retrieval and update module.
+JSONPath is an Erlang-based fast JSON data retrieval and update module.  It operates on binary data and uses [jiffy](/davisp/jiffy) for fast and efficient decoding of binary JSON into structured Erlang terms and back again.
 
 ## JSONPath is simple
 
@@ -59,3 +59,24 @@ Average: 5 mics
 
 That's 5 microseconds on average on a MacBook Pro.
 
+## JSONPath can alter your data
+
+Using the same small JSON document from the first example, replace the content of a single node:
+
+```erlang
+(jsonpath@127.0.0.1)9> Json = jsonpath:replace(<<"menu.popup.menuitem[1].onclick">>, <<"NewFunction()">>, Data).
+{[{<<"menu">>,
+   {[{<<"id">>,<<"file">>},
+     {<<"value">>,<<"File">>},
+     {<<"popup">>,
+      {[{<<"menuitem">>,
+         [{[{<<"value">>,<<"New">>},
+            {<<"onclick">>,<<"CreateNewDoc()">>}]},
+          {[{<<"value">>,<<"Open">>},
+            {<<"onclick">>,<<"NewFunction()">>}]},
+          {[{<<"value">>,<<"Close">>},
+            {<<"onclick">>,<<"CloseDoc()">>}]}]}]}}]}}]}
+(jsonpath@127.0.0.1)10> NewData = jiffy:encode(Json).
+<<"{\"menu\":{\"id\":\"file\",\"value\":\"File\",\"popup\":{\"menuitem\":[{\"value\":\"New\",\"onclick\":\"CreateNewDoc()\"},{\"value\":\"Open\","...>>
+(jsonpath@127.0.0.1)11> 
+```
