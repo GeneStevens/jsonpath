@@ -1,5 +1,6 @@
 ebin/*
 deps/*
+src/reloader.erl
 *.swp
 erl_crash.dump
 log/*
