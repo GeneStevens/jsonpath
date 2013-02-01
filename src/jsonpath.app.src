@@ -5,7 +5,9 @@
   {registered, []},
   {applications, [
                   kernel,
-                  stdlib
+                  stdlib,
+                  lager,
+                  jiffy
                  ]},
   {mod, { jsonpath_app, []}},
   {env, []}
