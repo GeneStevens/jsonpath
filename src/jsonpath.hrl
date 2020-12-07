@@ -1,11 +1,14 @@
 %% Logging
+
+-include_lib("kernel/include/logger.hrl").
+
 -define(DEBUG(Format, Args),
-    lager:log(debug, self(), "[~p:~p] " ++ Format, [?MODULE, ?LINE | Args])).
+        ?LOG_DEBUG(Format, Args)).
 -define(INFO(Format, Args),
-    lager:log(info, self(), "[~p:~p] " ++ Format, [?MODULE, ?LINE | Args])).
+        ?LOG_INFO(Format, Args)).
 -define(WARN(Format, Args),
-    lager:log(warning, self(), "[~p:~p] " ++ Format, [?MODULE, ?LINE | Args])).
+        ?LOG_WARN(Format, Args)).
 -define(FATAL(Format, Args),
-    lager:log(critical, self(), "[~p:~p] " ++ Format, [?MODULE, ?LINE | Args])).
+        ?LOG_FATAL(Format, Args)).
 -define(ERROR(Format, Args),
-    lager:log(error, self(), "[~p:~p] " ++ Format, [?MODULE, ?LINE | Args])).
+        ?LOG_ERROR(Format, Args)).
