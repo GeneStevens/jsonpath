@@ -1,6 +1,6 @@
 {application, jsonpath,
  [
-  {description, ""},
+  {description, "JSON Path"},
   {vsn, "1"},
   {registered, []},
   {applications, [
