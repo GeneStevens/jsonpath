@@ -1,12 +1,11 @@
 {application, jsonpath,
  [
-  {description, ""},
+  {description, "JSON Path"},
   {vsn, "1"},
   {registered, []},
   {applications, [
                   kernel,
                   stdlib,
-                  lager,
                   jiffy
                  ]},
   {mod, { jsonpath_app, []}},
